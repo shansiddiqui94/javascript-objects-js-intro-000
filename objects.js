@@ -1,5 +1,6 @@
 var playlist = {
   Fray: 'Found Me'
+  Slowdive: 'Alison'
   }
 
   function updatePlaylist(playlist, artistName, songTitle){
