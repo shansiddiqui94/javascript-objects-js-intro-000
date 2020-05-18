@@ -1,6 +1,5 @@
 var playlist = {
   Fray: 'Found Me'
-  Slowdive: 'Alison'
   }
 
   function updatePlaylist(playlist, artistName, songTitle){
@@ -12,7 +11,6 @@ var playlist = {
   }
 
   function removeFromPlaylist(playlist, artistName){
-
    delete playlist.artistName;
    return playlist
   }
