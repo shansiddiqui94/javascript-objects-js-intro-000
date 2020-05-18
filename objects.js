@@ -11,9 +11,9 @@ var playlist = {
   }
 
   function removeFromPlaylist(playlist, artistName){
-    var playlist{
+    var music = 
       playlist['Slowdive']
-    }
+
    delete playlist.artistName;
    return playlist
   }
